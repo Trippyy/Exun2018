@@ -248,9 +248,11 @@ li{
 }
 
 div.map{
-    display: block;
+    display: flex;
     width: 100%;
     margin: 6% 0;
+    align-itmes: center;
+    justify-content: center;
 }
 img.map{
     width: 60%;
