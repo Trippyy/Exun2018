@@ -88,8 +88,9 @@ footer{
     }
 }
 @media screen and (max-width: 650px) {
-    #indent {
-        transform: scale(0.2);
+    .responsive {
+        font-size: 7px;
+        margin-left: 0;
     }
 }
 
