@@ -268,7 +268,7 @@ img.map{
     }
     img.map {
         margin: 6%;
-        transform: scale(1.3);
+        width: 80%;
     }
     .terrain {
         width: 100%;
