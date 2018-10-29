@@ -88,8 +88,8 @@ footer{
     }
 }
 @media screen and (max-width: 650px) {
-    #indent p{
-        margin-left: 0;
+    #indent {
+        transform: scale(0.2);
     }
 }
 
