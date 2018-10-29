@@ -87,6 +87,11 @@ footer{
         width: 60%;
     }
 }
+@media screen and (max-width: 650px) {
+    #indent p{
+        margin-left: 0;
+    }
+}
 
 [class*=cloud]{opacity: 0.9;}
 .clouda{
