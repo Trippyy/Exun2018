@@ -270,7 +270,7 @@ img.map{
         margin: 6%;
         width: 80%;
     }
-    mapimg {
+    .mapimg {
         transform: scale(1.5);
     }
     .terrain {
